@@ -48,3 +48,5 @@ if __name__ == '__main__':
     bot.polling(none_stop=True)
 
 model = pickle.load(open('model.pkl', 'rb'))
+
+git rm
